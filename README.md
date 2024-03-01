@@ -2,9 +2,9 @@
 
 ## Objetivo
 Projeto simples para cadastro de usuários feito com o framework Django, inspirado pelo tutorial do canal "Dev Aprender - Jhonatan de Souza" no YouTube. A interface permite o cadastro de novos usuários, armazenando informações no banco de dados como nome e idade. Além de fornecer uma segunda tela de visualização dos usuários cadastrados.
-- Video - Uso da Interface
-  
-!https://github.com/jadynapessoa/cadastro-usuarios-Django/assets/121054946/41c9965a-69c2-48ad-a79c-c90b320f3ca7
+ Uso da Interface
+
+![cadastro_usuarios mp4](https://github.com/jadynapessoa/cadastro-usuarios-Django/assets/121054946/8cf4bef7-7c81-496e-9473-4b7f7e791489)
 
 ## Melhorias adicionais feitas
 - Edição de dados dos usuários
