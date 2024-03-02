@@ -15,7 +15,7 @@ Projeto simples para cadastro de usuários feito com o framework Django, inspira
 2. Configure as dependências necessárias do Django 
 3. Execute a aplicação localmente no seu navegador
 
-Fique a vontade para contruibuir com o projeto e propor melhorias.
+Fique a vontade para contribuir com o projeto e propor melhorias.
 
 ## Referência
 Canal Dev Aprender: https://www.youtube.com/watch?v=-m5ywU8SW9E
