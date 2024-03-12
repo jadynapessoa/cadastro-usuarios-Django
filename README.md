@@ -20,6 +20,12 @@ Fique a vontade para contribuir com o projeto e propor melhorias.
 ## Referência
 Canal Dev Aprender: https://www.youtube.com/watch?v=-m5ywU8SW9E
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jadynapessoa}/count.svg" /></p> 
+<br>
+</div>
+
 
 
 
